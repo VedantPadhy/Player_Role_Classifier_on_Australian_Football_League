@@ -97,10 +97,10 @@ main_xgboost.ipynb – Final end‑to‑end pipeline with XGBoost (recommended n
 
 main.ipynb – Earlier version with Random Forest baseline and first XGBoost experiments.​
 
-players.csv – Player metadata (not included in the public repo if distribution is restricted).
+players.csv – Player metadata.
 
-games.csv – Match‑level information (not included if distribution is restricted).
+games.csv – Match‑level information.
 
-stats CSV – Per‑game player stats (not included if distribution is restricted).​
+stats CSV – Per‑game player stats.​
 
 If the original AFL dataset has licensing restrictions, only the notebooks and code are uploaded, and instructions are provided for users to obtain the raw data from the original source. This respects intellectual property and copyright of the data provider.​
